@@ -1,0 +1,11 @@
+git remote add origin https://github.com/njrzhp
+git config --global user.name "njrzhp"
+git config --global user.email "njrz_hp@outloop.es"
+
+git remote set-url origin https://github.com/njrzhp/grados
+git push -u origin master
+
+git config --list
+
+git remote add origin https://github.com/njrzhp/grados.git
+git push -u origin master
